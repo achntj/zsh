@@ -1,0 +1,11 @@
+#!/bin/sh
+
+HISTSIZE=1000000
+SAVEHIST=1000000
+
+export GOPATH=$HOME/go
+export PATH="/Applications/Postgres.app/Contents/Versions/latest/bin:$PATH"
+ 
+# Notion
+export NOTION_TOKEN="secret_LedkYobJYWSZNkVl0VqSUexDhNtoiauGXDUzcR1IKQi"
+export NOTION_BOOKMARK_DB="e6c39ab90f0146bab080716c70f87da5"

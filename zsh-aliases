@@ -1,0 +1,7 @@
+alias vim="nvim"
+alias nvim_config="cd ~/.config/nvim; vim init.vim;"
+alias cp_fold="cd ~/code/cpp/competitive;"
+alias jserver="bundle exec jekyll serve --watch --livereload;"
+alias ml_env="cd; cd ml; source my_env/bin/activate; cd;"
+alias python="python3"
+alias zsh_config="cd ~/.config/zsh; vim .zshrc;"
